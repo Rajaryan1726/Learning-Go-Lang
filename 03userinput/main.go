@@ -15,4 +15,4 @@ func main() {
 	name, _ := reader.ReadString('\n')
 	fmt.Println("Hello, ", name)
 
-}
+} 
